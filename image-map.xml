@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://divyapandik.github.io/PandianTeaStall/</loc>
+    <image:image>
+      <image:loc>https://divyapandik.github.io/PandianTeaStall/path/to/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://divyapandik.github.io/PandianTeaStall/path/to/main-image.jpg</image:loc>
+    </image:image>
+    <!-- add more image:loc entries here -->
+  </url>
+
+  <!-- Menu Page -->
+  <url>
+    <loc>https://divyapandik.github.io/PandianTeaStall/menu.html</loc>
+    <image:image>
+      <image:loc>https://divyapandik.github.io/PandianTeaStall/path/to/menu-image1.jpg</image:loc>
+    </image:image>
+    <!-- add more -->
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://divyapandik.github.io/PandianTeaStall/contact.html</loc>
+    <image:image>
+      <image:loc>https://divyapandik.github.io/PandianTeaStall/path/to/contact-image.jpg</image:loc>
+    </image:image>
+  </url>
+
+</urlset>
